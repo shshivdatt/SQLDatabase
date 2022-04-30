@@ -1,0 +1,10 @@
+30-04-2022 20:59:11	This log contains information about the import schema operation into project 'TestDatabase' on computer 'PROMETHEUS' by user 'shshi'.
+30-04-2022 20:59:11	Deserializing model
+30-04-2022 20:59:11	Resolving model
+30-04-2022 20:59:12	Visiting imported model for types
+30-04-2022 20:59:12	Scanning project for duplicate elements
+30-04-2022 20:59:12	Finished duplicate element processing
+30-04-2022 20:59:12	Processing extra files
+30-04-2022 20:59:12	Finished importing Data-tier Application file.
+30-04-2022 20:59:12	A summary of the import was saved to the following location: C:\Users\shshi\source\repos\TestDatabase\Import Schema Logs\TestDatabase_20220430032911.log
+30-04-2022 20:59:12	Click Finish to continue...
